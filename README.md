@@ -37,15 +37,3 @@ I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating mo
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asifmahmud1047/contributions?format=svg&private=false)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=asifmahmud1047)  
-
-
-<h3 align="left">🔥 My Stats :</h3>
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=HabiburRahman02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabiburRahman02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HabiburRahman02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
