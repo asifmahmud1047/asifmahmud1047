@@ -27,8 +27,11 @@ I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating mo
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-- 🌱 I’m currently learning MongoDB 
-- 💬 Ask me about web development 
+🔭 I’m currently working on React Project. <br>
+👯 I’m looking to collaborate on Github <br>
+💬 Ask me about Web Development <br>
+🌱 I’m learning Next.js and exploring new tools <br>
+🚀 I’m focused on improving performance optimization techniques <br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifmahmud1047)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asif-mahmud-1a0a25171//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/asif.mahmud47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/asif.mahmud1047//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://asif-mahmud-portfolio.netlify.app/)  
