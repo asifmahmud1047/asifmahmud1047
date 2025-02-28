@@ -44,6 +44,20 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
 🚀 I’m focused on improving performance optimization techniques <br>
 
 
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/asif-mahmud-1a0a25171/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/asif.mahmud47/" target="_blank" rel="noopener noreferrer">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+8801785309592" target="_blank" rel="noopener noreferrer">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2314A74B.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifmahmud1047)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asif-mahmud-1a0a25171//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/asif.mahmud47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/asif.mahmud1047//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://asif-mahmud-portfolio.netlify.app/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifmahmud1047)](https://github.com/anuraghazra/github-readme-stats)
