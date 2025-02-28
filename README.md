@@ -22,8 +22,11 @@ I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating mo
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
+<h3>I am currently learning</h3>
+<p>
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on backend development 
 - 🌱 I’m currently learning MongoDB 
 - 💬 Ask me about web development 
 
