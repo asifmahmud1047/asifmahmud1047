@@ -1,7 +1,10 @@
 ![Frontend Web Developer](https://media.licdn.com/dms/image/v2/D5603AQFT4_LyMhtIsw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710091250203?e=1746057600&v=beta&t=0E3KbrOkaEmaOCctEsAT_5912Az_Cg-e_knaJpeHnCc)
 
-### Hi there 👋, this is Asif Mahmud
-#### Front-end Web Developer
+<h1>
+  <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="30" alt="Happy Icon" /> 
+  Hey! I'm Asif
+</h1>
+<h3> Frontend Web Developer</h3>
 
 
 Welcome!
