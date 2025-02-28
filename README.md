@@ -7,6 +7,7 @@
 Welcome!
 I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices. With a focus on clean, efficient code, I bridge the gap between design and functionality. I use the latest technologies to transform creative ideas into dynamic web applications. Constantly exploring new trends, I strive to provide innovative and future-ready solutions. Feel free to explore my projects and reach out for collaboration opportunities!
 
+<h3 align="left">Skills:</h3>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
