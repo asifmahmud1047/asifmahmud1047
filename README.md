@@ -7,8 +7,14 @@
 <h3> Frontend Web Developer</h3>
 
 
-Welcome!
-I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices. With a focus on clean, efficient code, I bridge the gap between design and functionality. I use the latest technologies to transform creative ideas into dynamic web applications. Constantly exploring new trends, I strive to provide innovative and future-ready solutions. Feel free to explore my projects and reach out for collaboration opportunities!
+<p>Welcome!</br>  
+I'm a Frontend Developer based in <img src="https://img.icons8.com/?size=100&id=60238&format=png&color=000000" width="13" alt="Bangladesh Flag"/>
+ <b>Dhaka, Bangladesh</b>.  
+I specialize in creating modern, responsive, and user-centric web interfaces that provide seamless experiences across all devices.  
+With a focus on clean, efficient code, I bridge the gap between design and functionality.  
+I use the latest technologies to transform creative ideas into dynamic web applications.  
+Constantly exploring new trends, I strive to provide innovative and future-ready solutions.  
+Feel free to explore my projects and reach out for collaboration opportunities!</p>
 
 <h3>I code with</h3>
 <p>
