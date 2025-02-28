@@ -30,7 +30,7 @@ I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating mo
 🔭 I’m currently working on React Project. <br>
 👯 I’m looking to collaborate on Github <br>
 💬 Ask me about Web Development <br>
-🌱 I’m learning Next.js and exploring new tools <br>
+🌱 I’m learning MongoDB and exploring new tools <br>
 🚀 I’m focused on improving performance optimization techniques <br>
 
 
