@@ -20,6 +20,9 @@ I'm a Frontend Developer based in Dhaka, Bangladesh. I specialize in creating mo
 <h4 align="left">Database:</h4>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
+<h4 align="left">Backend as a Service(BaaS):</h4>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+
 Skills: REACT / JS / HTML / CSS /
 
 - 🔭 I’m currently working on backend development 
