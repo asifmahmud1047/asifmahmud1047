@@ -42,7 +42,7 @@ Feel free to explore my projects and reach out for collaboration opportunities!<
 🌱 I’m learning MongoDB and exploring new tools <br>
 🚀 I’m focused on improving performance optimization techniques <br>
 
-<p align="left"> <img src="https://github.com/asifmahmud1047" alt="habib937" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifmahmud1047&label=Profile%20views&color=0e75b6&style=flat" alt="asifmahmud1047" /> </p>
 
 
 <h3>Where to find me</h3>
